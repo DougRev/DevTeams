@@ -1,0 +1,2 @@
+C:\Users\DJ Revell\source\repos\Dev_Teams\DevTeams_POCOs\obj\Debug\DevTeams_POCOs.csproj.AssemblyReference.cache
+C:\Users\DJ Revell\source\repos\Dev_Teams\DevTeams_POCOs\obj\Debug\DevTeams_POCOs.csproj.CoreCompileInputs.cache

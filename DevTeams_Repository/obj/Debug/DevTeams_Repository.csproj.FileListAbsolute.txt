@@ -1,0 +1,2 @@
+C:\Users\DJ Revell\source\repos\Dev_Teams\DevTeams_Repository\obj\Debug\DevTeams_Repository.csproj.AssemblyReference.cache
+C:\Users\DJ Revell\source\repos\Dev_Teams\DevTeams_Repository\obj\Debug\DevTeams_Repository.csproj.CoreCompileInputs.cache
